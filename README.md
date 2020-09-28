@@ -11,19 +11,19 @@ I created a Python program that parses the text file with the correct column wid
 ** See below for an example. I am not able to add actual examples to the github page because of the confidentiality of the information and the old programs only work in my work directory. 
 
 1. Download text files.
-![Text File](.\images\text_file.JPG)
+![Text File](images/text_file.JPG)
 
 2. Save text files.
-![Save File](.\images\file_loc.JPG)
+![Save File](images/file_loc.JPG)
 
 3. Run the Python program.
-![Run Program](.\images\parser.JPG)
+![Run Program](images/parser.JPG)
 
 4. Enter the file locations.
-![File Info](.\images\run.JPG)
+![File Info](images/run.JPG)
 
 5. The files will be parsed and analyzed.
-![Output](.\images\output.JPG)
+![Output](images/output.JPG)
 
 6. The new parsed file and reports can be used.
-![New File](.\images\cout.JPG)
+![New File](images/cout.JPG)
